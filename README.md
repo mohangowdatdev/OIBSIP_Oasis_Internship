@@ -2,7 +2,7 @@
 
 # Voice Assistant, BMI Calculator, Password Generator, and Weather App
 
-This repository contains four beginner-level projects created during an internship at Oasis Infobytes. Each project showcases the use of various Python libraries and tools to create interactive applications. The projects are:
+This repository contains four beginner-level projects created during an internship at Oasis Infobytes. Each project showcases the use of various Python libraries and tools to create interactive applications. The projects are
 
 1. [Voice Assistant](#voice-assistant)
 2. [BMI Calculator](#bmi-calculator)
